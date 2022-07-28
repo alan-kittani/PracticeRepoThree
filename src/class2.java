@@ -4,6 +4,8 @@ public class class2 {
 
         int [] arrayOne = {1, 2, 3};
 
+        int [] arrayTwo = {3, 2, 1};
+
 
     }
 }
